@@ -15,3 +15,7 @@ Canvas:
 	Kick,Hide,Jump is button with method related with Moving Korey script.
 11. Health is 3 images related with HUD menu Script.
 12. "TryAgain" & "Finish" panels are deactivated siblings with HUD and related with Hud instance.
+
+ADITIONAL WORK for champions and lecturers:
+Need to implement propper update on progress slider for the song time.
+Need to add logic when the song finished to play next.
